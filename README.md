@@ -16,7 +16,6 @@ This project demonstrates how to use GitHub Actions to deploy an `index.html` fi
 ## Deployment URL
 
 Once set up, the deployed website will be accessible at:
-`https://github.com/fikrioda/fikrioda-gh-deployment-workflow`
-
+'https://fikrioda.github.io/gh-deployment-workflow/'
 # fikrioda-gh-deployment-workflow
 # fikrioda-gh-deployment-workflow
